@@ -30,5 +30,5 @@
 Success :order has been placed thankyou
 
 </body>
-<footer>Project by :RAMAN JOT KAUR  </footer>
+<footer>Project by :RAMAN JOT KAUR Jassar </footer>
 </html>
